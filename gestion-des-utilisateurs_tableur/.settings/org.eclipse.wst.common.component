@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="gestion-des-utilisateurs_tableur">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="java-output-path" value="/gestion-des-utilisateurs_tableur/build/classes"/>
+        <property name="context-root" value="gestion-des-utilisateurs_tableur"/>
+    </wb-module>
+</project-modules>
